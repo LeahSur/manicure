@@ -1,0 +1,248 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+
+
+.btn-orange-ino {
+    display: inline-block;
+    border: 2px solid black;
+    background-color: bisque;
+    opacity: 0.8;
+    color: black;
+    padding: 20px 40px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    transition: all 0.5s;
+    margin: 50px;
+}
+
+.flex-center-work {
+display: flex;
+justify-content: center;
+}
+
+.btn-orange-ino:hover {
+    color: rgb(87, 87, 101);
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+
+}
+
+
+.btn-more {
+    padding: 20px 40px;
+    background-color: white;
+    border: 3px solid red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(194, 0, 0);
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: all 0.7s;
+}
+
+.btn-more:hover {
+    background-color: red;
+    color: white;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.more {
+    margin: 30%;
+}
+
+.dignity {
+    display: inline-block;
+    bottom: 50px;
+}
+
+.elem {
+    position: relative;
+}
+.dignity {
+    position:absolute;
+    display: flex;
+}
+
+.time {
+    margin: 200px;
+}
+
+.header_work  {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    justify-content: center;
+    
+}
+
+
+
+
+.card-img-ino {
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    border: 2px solid black;
+    transition: all 0.4s;
+}
+
+.padding-header-work {
+    padding: 10px;
+}
+
+
+.cards-hes-work {
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.btn-loc {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+   
+}
+
+#slider {
+    display: flex;
+    height: 100vh;
+    background-size: cover; 
+    background-position: center center;
+    position: relative;
+    
+}
+
+#slider-2 {
+    display: flex;
+    margin: 20px 0px;
+    height: 500px;
+    width: 100%;
+    background-size: cover; 
+    background-position: center center;
+
+}
+.btnbtnbtn {
+    position:absolute;
+    flex-wrap: wrap;
+    margin: 10%;
+    right: 20%;
+}
+
+.loc_from {
+        display: flex;
+        right: 200px;
+        margin: 200px;
+}
+
+.loc-record {
+   
+    right: 600px;
+    margin: 400px;
+}
+
+
+.icon-ino {
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: 2px solid pink;
+    transition: all 0.3s;
+}
+
+.tool {
+    display: flex;
+    right: 3%;
+    margin: 3%;
+    position: absolute;
+}
+.tool-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.place {
+    margin: 50px;
+    right: 100px;
+}
+.place-2 {
+    margin: 300px;
+    right: 40px;
+}
+
+.place-text {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.disin {
+    display: flex;
+    position: absolute;
+    left: 40%;
+    margin: 38%;
+}
+
+.cleaning {
+    display: flex;
+    position: absolute;
+    left: 50%;
+    margin: 20%;
+}
+
+.ster {
+    display: flex;
+    position: absolute;
+    left: 10%;
+    margin: 38%;
+}
+
+.form {
+    display: flex;
+    position: absolute;
+    left: 20%;
+    margin: 20%;
+}
+
+.chea {
+    display: flex;
+    position: absolute;
+    left: 40%;
+    margin: 3%;
+}
+
+
+.ca-text-col {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-card-ab {
+    display: flex;
+    justify-content: center;
+
+}
+
+.the-size {
+    margin-right: 50px;
+}
+
+
+
